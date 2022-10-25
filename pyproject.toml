@@ -5,7 +5,7 @@ description = "RS for Proteomics"
 authors = ["Manuel Gander"]
 license = "Apache 2.0"
 readme = "README.md"
-packages = [{include = "recommender_system_proteomics"}]
+packages = [{include = "RS"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
