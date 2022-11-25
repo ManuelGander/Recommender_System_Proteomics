@@ -2,7 +2,7 @@
 Scripts to run Recommender Systems on Proteomics data.
 
 ## Downloading and installation:
-The easiest was is via Pypi, in your favourite environment run 
+The easiest was is via PyPi, in your favourite environment run 
   - ````pip install psite_recommender````
 
 Alternatively, you can get it from github, via:
