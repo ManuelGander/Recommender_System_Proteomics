@@ -8,7 +8,7 @@ The easiest was is via Pypi, in your favourite environment run
 Alternatively, you can get it from github, via:
   - click on the green "Code" button on the top right and Download ZIP, then unzip it  
   or use  
-  - ````git clone https://github.com/ManuelGander/Recommender_System_Proteomics.git```
+  - ````git clone https://github.com/ManuelGander/Recommender_System_Proteomics.git```` 
   
   then install via:
    - cd into the Recommender_System_Proteomics-folder and ```` run pip install . ````. 
