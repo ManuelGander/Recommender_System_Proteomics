@@ -12,7 +12,6 @@ Alternatively, you can get it from github, via:
   
   then install via:
    - cd into the Recommender_System_Proteomics-folder and ```` run pip install . ````. 
-   - 
 
 ## Running the scripts:
   - The notebook "Script.ipynb" contains all the information needed to run the scripts
