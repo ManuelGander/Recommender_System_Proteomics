@@ -10,8 +10,8 @@ import os
 import sys
 sys.path.append(os.getcwd().rsplit('/', 1)[0]+'/Functions')
 
-import ALS as als
-import Neural_network_RS as nn
+import als
+import neural_network_RS as nn
 
 
 

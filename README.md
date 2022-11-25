@@ -7,4 +7,4 @@ Scripts to run Recommender Systems on Proteomics data.
   - git clone https://github.com/ManuelGander/Recommender_System_Proteomics.git
   
 ## Running the scripts:
-  - The notebook "Full_script.ipynb" contains all the information needed to run the scripts
+  - The notebook "Script.ipynb" contains all the information needed to run the scripts
