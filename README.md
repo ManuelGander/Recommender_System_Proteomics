@@ -2,10 +2,8 @@
 Scripts to run Recommender Systems on Proteomics data.
 
 ## Downloading:
-  - click on the green "Code" button on the top right and download Zip, and unzip it
-  
-  or
-  
+  - click on the green "Code" button on the top right and download Zip, and unzip it\n
+  or\n
   - git clone https://github.com/ManuelGander/Recommender_System_Proteomics.git
   
 ## Running the scripts:
