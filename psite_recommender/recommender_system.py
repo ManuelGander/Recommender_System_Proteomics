@@ -6,10 +6,6 @@ import matplotlib.pyplot as plt
 import scipy
 
 
-import os
-import sys
-sys.path.append(os.getcwd().rsplit('/', 1)[0]+'/Functions')
-
 from psite_recommender import als
 from psite_recommender import neural_network_RS as nn
 
