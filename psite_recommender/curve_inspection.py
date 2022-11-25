@@ -5,11 +5,8 @@ import anndata
 import matplotlib.pyplot as plt
 import scipy
 
-import os
-import sys
-sys.path.append(os.getcwd().rsplit('/', 1)[0]+'/Functions')
 
-import Extract_from_raw_data as extr
+from psite_recommender import Extract_from_raw_data as extr
 
 
 doses = [0.0, 0.03, 0.3, 1.0, 3.0, 10.0, 30.0, 100.0, 300.0, 1000.0, 10000.0]

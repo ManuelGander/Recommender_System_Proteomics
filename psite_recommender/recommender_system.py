@@ -10,8 +10,8 @@ import os
 import sys
 sys.path.append(os.getcwd().rsplit('/', 1)[0]+'/Functions')
 
-import als
-import neural_network_RS as nn
+from psite_recommender import als
+from psite_recommender import neural_network_RS as nn
 
 
 
